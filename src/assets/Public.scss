@@ -1,0 +1,29 @@
+/*scss全局背景色变量*/
+$back_color_white: white;
+$back_color_main: #409EFF;
+$back_color_Success: #67C23A;
+$back_color_Warning: #E6A23C;
+$back_color_Danger: #F56C6C;
+$back_color_Info: #f3f7fe;
+/*scss全局文字色变量*/
+$font_color_white: white;
+$font_color1: #303133;
+$font_color2: #606266;
+$font_color3: #909399;
+$font_color4: #C0C4CC;
+/*scss全局字体大小变量*/
+$font_size20: 20px;
+$font_size18: 18px;
+$font_size16: 16px;
+$font_size14: 14px;
+$font_size13: 13px;
+$font_size12: 12px;
+/*scss全局边框色变量*/
+$border_color1: #DCDFE6;
+$border_color2: #E4E7ED;
+$border_color3: #d9d9d9;
+$border_color4: #F2F6FC;
+/*全局class样式*/
+.pointer{
+  cursor:pointer;
+}
